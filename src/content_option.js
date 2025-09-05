@@ -116,21 +116,24 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://i.ibb.co.com/k0X60rn/project1.png",
+    img: "https://i.ibb.co.com/nqnwq7DH/project1.png",
+    // img: "https://i.ibb.co.com/k0X60rn/project1.png",
     desctiption:
       "Built an agency web app for streamlined client management, project tracking, and team collaboration with a responsive, user-friendly design.",
       livelink: "https://oribo.netlify.app/",
       codelink: "https://github.com/mahimerror/oribo",
   },
   {
-    img: "https://i.ibb.co.com/P4h1ftk/project2.png",
+    img: "https://i.ibb.co.com/pBbv9WjD/project2.png",
+    // img: "https://i.ibb.co.com/P4h1ftk/project2.png",
     desctiption:
       "Created a cryptography algorithm library with easy-to-integrate encryption and decryption tools for enhanced data security.",
     livelink: "https://crypto-graaphy.netlify.app/tc",
     codelink: "https://github.com/mahimerror/crypto-graphy",
   },
   {
-    img: "https://i.ibb.co.com/3BkcyDD/project3.png",
+    img: "https://i.ibb.co.com/KzQcc0y8/project3.png",
+    // img: "https://i.ibb.co.com/3BkcyDD/project3.png",
     desctiption:
       "Developed a dynamic news portal web app with real-time updates, category filtering, and an intuitive, responsive design for seamless user engagement.",
     livelink: "https://dragon-newss.netlify.app/",
@@ -138,13 +141,15 @@ const dataportfolio = [
   },
 
   {
-    img: "https://i.ibb.co.com/hHmMQwT/project4.png",
+    img: "https://i.ibb.co.com/jvMYwmWD/project4.png",
+    // img: "https://i.ibb.co.com/hHmMQwT/project4.png",
     desctiption: "Designed a responsive e-commerce web frontend, focusing on user-friendly navigation, product displays, and a streamlined checkout process to enhance customer experience.",
     livelink: "https://mahimerror.github.io/penguin-fashion/",
     codelink: "https://github.com/mahimerror/penguin-fashion",
   },
   {
-    img: "https://i.ibb.co.com/dtnRbCc/project5.png",
+    img: "https://i.ibb.co.com/Cp7c2NQ7/project5.png",
+    // img: "https://i.ibb.co.com/dtnRbCc/project5.png",
     desctiption:
       "Crafted a responsive frontend for a book-review web app, featuring intuitive navigation, interactive review sections, and personalized book recommendations to engage readers.",
     link: "",

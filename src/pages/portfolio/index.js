@@ -24,7 +24,7 @@ export const Portfolio = () => {
             return (
               <div key={i} className="po_item">
                 <img src={data.img} alt="" />
-                <div className="content">
+                <div className="content p-2">
                   <p>{data.desctiption}</p>
                   <div>
                     <a href={data.livelink} target="_blank" rel="noopener noreferrer" style={{marginRight: "10px"}}>Live</a>
