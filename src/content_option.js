@@ -113,6 +113,48 @@ const services = [
 
 const dataportfolio = [
   {
+    img: "https://i.ibb.co.com/ch79W02N/goldlync-com-constructor-profile-add-project.jpg",
+    desctiption:
+      "Developed GoldLync, a services marketplace platform that connects customers with trusted professionals for home improvement, repairs, and personal services—all in one place.",
+    livelink: "https://goldlync.com/",
+  },
+  {
+    img: "https://i.ibb.co.com/qFXT2FP7/duelert-frontend-netlify-app-2-1.jpg",
+    desctiption:
+      "Created Duelert, a smart reminder platform that helps businesses stay connected by automating customer birthdays, anniversaries, and events with personalized messages and flexible plans.",
+    livelink: "https://duelert-frontend.netlify.app/",
+  },
+  {
+    img: "https://i.ibb.co.com/GGqS9Ft/one-heart-society-netlify-app.jpg",
+    desctiption:
+      "Built a compassionate community platform for One Heart Society, featuring private requests, supporter contributions, and emotional sanctuary spaces for those in need.",
+    livelink: "https://one-heart-society.netlify.app/",
+  },
+  {
+    img: "https://i.ibb.co.com/xkVvg8n/things-to-do-liists-netlify-app.jpg",
+    desctiption:
+      "ThingsToDoLists - a travel and experiences platform curating the best tours, events, and activities worldwide with instant booking, lowest prices, and 24/7 support.",
+    livelink: "https://things-to-do-liists.netlify.app/",
+  },
+  {
+    img: "https://i.ibb.co.com/x8CcHwK8/localhost-5173.jpg",
+    desctiption:
+      "Developed a dynamic gaming services website for Vanguard Boost with secure payments, service catalog, offers, reviews, FAQs, and 24/7 customer support.",
+    livelink: "https://vanguard-bost.netlify.app/",
+  },
+  {
+    img: "https://i.ibb.co.com/dwTfvJZN/screencapture-stelk-netlify-app-2025-09-05-21-08-11-1.jpg",
+    desctiption:
+      "Developed a responsive marketing landing page for LeadTalk to showcase features, demo, and FAQs, helping businesses automate lead targeting and boost sales.",
+    livelink: "https://stelk.netlify.app/",
+  },
+  {
+    img: "https://i.ibb.co.com/Z6qd6g65/coleridgeadvisors-net-1.png",
+    desctiption:
+      "A professional website for a consulting firm, showcasing services, team, and client testimonials with a clean, modern design.",
+    livelink: "https://coleridgeadvisors.net/", // https://aleksandraa.netlify.app/
+  },
+  {
     img: "https://i.ibb.co.com/nqnwq7DH/project1.png",
     // img: "https://i.ibb.co.com/k0X60rn/project1.png",
     desctiption:
