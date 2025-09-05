@@ -1,8 +1,7 @@
 const logotext = "MH Mahim";
 const meta = {
   title: "Mahim",
-  description:
-    "I’m MD. Monir Hossen Mahim Front End Devloper",
+  description: "I’m MD. Monir Hossen Mahim Front End Devloper",
 };
 
 const introdata = {
@@ -13,8 +12,7 @@ const introdata = {
     third: "I develop web application",
   },
   description: "I’m Front End Devloper",
-  your_img_url:
-    "./IMG-20230201-WA0006.jpg",
+  your_img_url: "./IMG-20230201-WA0006.jpg",
 };
 
 const dataabout = {
@@ -23,26 +21,21 @@ const dataabout = {
     "I’m MD. Monir Hossen Mahim. I live in Dhaka and my hometown is madaripur. I enjoy web development and have created 6 to 10 frontend and backend projects using  HTML, CSS, Javascript, Nodejs, Expressjs ,MongoDB , reactjs, react-router-v6, and react-redux. My ambition is to become a full-stack developer, with a focus on the mern and python stacks.",
 };
 const worktimeline = [
-    {
-      jobtitle: "C & C++ Instructor",
-      where: "Tejgaon College Programming Club",
-      date: "2021",
-    },
-    // {
-    //   jobtitle: "C & C++ Instructor",
-    //   where: "Tejgaon College Programming Club",
-    //   date: "2021",
-    // },
-  //   {
-  //     jobtitle: "Designer of week",
-  //     where: "Jamalya",
-  //     date: "2019",
-  //   },
-  //   {
-  //     jobtitle: "Designer of week",
-  //     where: "ALquds",
-  //     date: "2019",
-  //   },
+  {
+    jobtitle: "C & C++ Instructor",
+    where: "Tejgaon College Programming Club",
+    date: "01/2022 - 09/2023",
+  },
+  {
+    jobtitle: "Vice President",
+    where: "Tejgaon College Programming Club",
+    date: "10/2023 - 10/2024",
+  },
+  {
+    jobtitle: "Frontend Developer",
+    where: "Softvence",
+    date: "12/2024 - present",
+  },
 ];
 
 const skills = [
@@ -61,6 +54,10 @@ const skills = [
   {
     name: "C & C++",
     value: 80,
+  },
+  {
+    name: "PHP",
+    value: 50,
   },
   {
     name: "TailwindCss",
@@ -120,8 +117,8 @@ const dataportfolio = [
     // img: "https://i.ibb.co.com/k0X60rn/project1.png",
     desctiption:
       "Built an agency web app for streamlined client management, project tracking, and team collaboration with a responsive, user-friendly design.",
-      livelink: "https://oribo.netlify.app/",
-      codelink: "https://github.com/mahimerror/oribo",
+    livelink: "https://oribo.netlify.app/",
+    codelink: "https://github.com/mahimerror/oribo",
   },
   {
     img: "https://i.ibb.co.com/pBbv9WjD/project2.png",
@@ -143,7 +140,8 @@ const dataportfolio = [
   {
     img: "https://i.ibb.co.com/jvMYwmWD/project4.png",
     // img: "https://i.ibb.co.com/hHmMQwT/project4.png",
-    desctiption: "Designed a responsive e-commerce web frontend, focusing on user-friendly navigation, product displays, and a streamlined checkout process to enhance customer experience.",
+    desctiption:
+      "Designed a responsive e-commerce web frontend, focusing on user-friendly navigation, product displays, and a streamlined checkout process to enhance customer experience.",
     livelink: "https://mahimerror.github.io/penguin-fashion/",
     codelink: "https://github.com/mahimerror/penguin-fashion",
   },
@@ -155,6 +153,22 @@ const dataportfolio = [
     link: "",
     livelink: "https://book-reviiew.netlify.app/",
     codelink: "https://github.com/mahimerror/book-review",
+  },
+  {
+    img: "https://i.ibb.co.com/pjMM4Wcp/restuurant-netlify-app-3.png",
+    desctiption:
+      "Create a restaurant website landing page with responsive design, menu showcase, and reservation features using HTML, CSS, and JavaScript.",
+    link: "",
+    livelink: "https://restuurant.netlify.app/",
+    codelink: "https://github.com/mahimerror/restaurant",
+  },
+  {
+    img: "https://i.ibb.co.com/kgmbw8Vd/agroo-tech-netlify-app-1.png",
+    desctiption:
+      "Developed a comprehensive agro-tech web application with features for crop management, market analysis, and farmer resources, utilizing a user-friendly interface.",
+    link: "",
+    livelink: "https://agroo-tech.netlify.app/",
+    codelink: "https://github.com/mahimerror/agro-tech",
   },
 ];
 

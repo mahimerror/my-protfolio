@@ -80,3 +80,19 @@
     color: var(--bg-color);
     background: var(--text-color);
 }
+
+.po_item .content p {
+  font-size: 16px; /* base */
+}
+
+@media (min-width: 768px) {
+  .po_item .content p {
+    font-size: 18px; /* md */
+  }
+}
+
+@media (min-width: 1280px) {
+  .po_item .content p {
+    font-size: 20px; /* xl */
+  }
+}
